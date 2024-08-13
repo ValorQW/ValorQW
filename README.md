@@ -1,1 +1,1 @@
-pipx install sherlock-project
+
